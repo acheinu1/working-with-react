@@ -1,9 +1,9 @@
 import React from 'react';
-import Header from './allthechild/Header';
-import Slider from './allthechild/Slider';
-import About from './allthechild/About';
-import Booking from './allthechild/Booking';
-import Footer from './allthechild/Footer';
+import Header from './children/Header';
+import Slider from './children/Slider';
+import About from './children/About';
+import Booking from './children/Booking';
+import Footer from './children/Footer';
 
 function Parentcomp() {
   return (

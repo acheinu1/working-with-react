@@ -1,8 +1,9 @@
 import React from 'react';
+import '../allcss/style.css';
 
 function Header() {
   return (
-    <div>
+    <div className=' my-header'>
       <p>this is my header section</p>
       <ul>
         <li>home</li>
